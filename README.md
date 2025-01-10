@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FPluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr&psig=AOvVaw1gXBemZilbgpfsb8Uonpc9&ust=1736608225008000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJC9wfW364oDFQAAAAAdAAAAABAd"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durwank2002&label=Profile%20views&color=0e75b6&style=flat" alt="durwank2002" /> </p>
 
-- 🌱 I’m currently learning **AngularJS, Django**
+
 
 - 📫 How to reach me **durwanksutar03gmail.com**
 
